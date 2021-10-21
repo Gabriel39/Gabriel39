@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-<!--
-**Gabriel39/Gabriel39** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![](https://komarev.com/ghpvc/?username=Gabriel39)
 
 - 🔭 I’m currently working for Alibaba Cloud.
 - 🌱 I’m currently learning OLAP / Databases / Computer Architecture.
